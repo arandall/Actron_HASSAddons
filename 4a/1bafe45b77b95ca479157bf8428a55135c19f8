@@ -1,0 +1,16 @@
+hass-actronneo-localcloud/app/discovery.py
+  h_e49bc6578e470a 521-536
+hass-actronneo-localcloud/app/state.py
+  h_e49bc6578e470a 223-241,295
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "4a1bafe45b77b95ca479157bf8428a55135c19f8",
+  "prompts": {},
+  "humans": {
+    "h_e49bc6578e470a": {
+      "author": "Allan Randall <me@allanrandall.com>"
+    }
+  }
+}
