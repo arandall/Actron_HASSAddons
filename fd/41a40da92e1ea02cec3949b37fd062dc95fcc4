@@ -1,0 +1,14 @@
+hass-actronneo-localcloud/config.yaml
+  h_e49bc6578e470a 2
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "fd41a40da92e1ea02cec3949b37fd062dc95fcc4",
+  "prompts": {},
+  "humans": {
+    "h_e49bc6578e470a": {
+      "author": "Allan Randall <me@allanrandall.com>"
+    }
+  }
+}
